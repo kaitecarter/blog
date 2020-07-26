@@ -16,12 +16,8 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
       label: 'Course sample',
-      path: '/pages/contacts'
+      path: '/pages/sample'
     }
   ],
   author: {
